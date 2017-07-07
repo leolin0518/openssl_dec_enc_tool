@@ -1,0 +1,2 @@
+# openssl_dec_enc_tool
+客户需求解密板子里面的加密文件，做的openssl的加解密的tool
